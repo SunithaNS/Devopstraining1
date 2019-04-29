@@ -1,2 +1,6 @@
+
 This line of test4.txt
+
+This is file is from branch b2
+
 
